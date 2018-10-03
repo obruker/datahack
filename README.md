@@ -20,7 +20,7 @@ The prize… a real-world, complex mission you can get your teeth into (with som
 lucrative cash of ILS 6000. 
 
 ## How to register as a team working on the challenge
-In order for us to keep better track of what's going on, and to communicate with you, please mail **datahack-teams@lightricks.com**. In the mail, please specify the team's name, a list of its members (it's fine if someone joins or drops later on), and at least one phone number (or more) which has WhatsApp. We will use a WhatsApp group to communicate with you during the event for fast, easy communication. 
+In order for us to keep better track of what's going on, and to communicate with you, please mail **datahack-teams@lightricks.com**. In the mail, please specify the team's name, a list of its members (it's fine if someone joins or drops later on), and at least one phone number (or more) which has WhatsApp. To make our lives easier, please add yourselves to our WhatsApp group at https://chat.whatsapp.com/BOHbX7uHztlAoeM418cftQ. 
 
 ## How to submit your team's churn predictions
 To submit your churn predictions on the test data for grading and listing in the leaderboard (automatically updated based on incoming submissions), please mail the output of your model (see [notebook](datahack_2018.ipynb) for example of how to create one) to **datahack@lightricks.com**. Please put your team's name in the Subject line.  
