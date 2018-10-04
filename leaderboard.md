@@ -120,11 +120,12 @@
 | 117 | 2018-10-04 20:14:54 | GirlPower                                  | Lital Kuchy                                   |     0.0803 |        0.1332 |      0.1594 |   0.0537 |
 | 118 | 2018-10-04 13:08:59 | GirlPower                                  | Lital Kuchy                                   |     0.0800 |        0.1132 |      0.1263 |   0.0585 |
 | 119 | 2018-10-04 13:04:50 | GirlPower                                  | Lital Kuchy                                   |     0.0800 |        0.1132 |      0.1263 |   0.0585 |
-| 120 | 2018-10-04 18:25:09 | huji hackers                               | "f7axj3+2grg6kniqc2ss via datahack-challenge" |     0.0712 |        0.0964 |      0.1058 |   0.0537 |
-| 121 | 2018-10-04 21:23:42 | .303/Dan Ofer Team - Datahack submission 2 | Dan Ofer                                      |     0.0684 |        0.1238 |      0.1552 |   0.0439 |
-| 122 | 2018-10-04 18:55:09 | Re: TMI                                    | Inbal Meir                                    |     0.0478 |        0.0969 |      0.1304 |   0.0293 |
-| 123 | 2018-10-04 11:55:09 | mmmtricks                                  | Gal Eyal                                      |     0.0471 |        0.0916 |      0.1200 |   0.0293 |
-| 124 | 2018-10-04 18:20:38 | huji hackers                               | "f7axj3+2grg6kniqc2ss via datahack-challenge" |     0.0380 |        0.0688 |      0.0862 |   0.0244 |
-| 125 | 2018-10-04 18:19:55 | .303/Dan Ofer Team - Datahack submission 1 | Dan Ofer                                      |     0.0000 |        0.0000 |      0.0000 |   0.0000 |
-| 126 | 2018-10-04 17:20:30 | huji hackers                               | "f79p93+bvxalsapamh3c via datahack-challenge" |     0.0000 |        0.0000 |      0.0000 |   0.0000 |
-| 127 | 2018-10-04 20:46:29 | yonatan_n                                  | Yonatan Nathan                                |     0.0000 |        0.0000 |      0.0000 |   0.0000 |
+| 120 | 2018-10-04 21:26:49 | .303/Dan Ofer Team - Datahack submission 3 | Dan Ofer                                      |     0.0741 |        0.1065 |      0.1196 |   0.0537 |
+| 121 | 2018-10-04 18:25:09 | huji hackers                               | "f7axj3+2grg6kniqc2ss via datahack-challenge" |     0.0712 |        0.0964 |      0.1058 |   0.0537 |
+| 122 | 2018-10-04 21:23:42 | .303/Dan Ofer Team - Datahack submission 2 | Dan Ofer                                      |     0.0684 |        0.1238 |      0.1552 |   0.0439 |
+| 123 | 2018-10-04 18:55:09 | Re: TMI                                    | Inbal Meir                                    |     0.0478 |        0.0969 |      0.1304 |   0.0293 |
+| 124 | 2018-10-04 11:55:09 | mmmtricks                                  | Gal Eyal                                      |     0.0471 |        0.0916 |      0.1200 |   0.0293 |
+| 125 | 2018-10-04 18:20:38 | huji hackers                               | "f7axj3+2grg6kniqc2ss via datahack-challenge" |     0.0380 |        0.0688 |      0.0862 |   0.0244 |
+| 126 | 2018-10-04 18:19:55 | .303/Dan Ofer Team - Datahack submission 1 | Dan Ofer                                      |     0.0000 |        0.0000 |      0.0000 |   0.0000 |
+| 127 | 2018-10-04 17:20:30 | huji hackers                               | "f79p93+bvxalsapamh3c via datahack-challenge" |     0.0000 |        0.0000 |      0.0000 |   0.0000 |
+| 128 | 2018-10-04 20:46:29 | yonatan_n                                  | Yonatan Nathan                                |     0.0000 |        0.0000 |      0.0000 |   0.0000 |
