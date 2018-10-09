@@ -1,4 +1,4 @@
-![Logo](LogoDark.png)
+![Logo](Datahack_congrats.png)
 
 # Lightricks DataHack 2018 Challenge
 
